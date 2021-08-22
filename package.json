@@ -1,0 +1,27 @@
+{
+  "name": "skapps",
+  "version": "1.0.0",
+  "description": "skynet tutorial",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelicamarie/skynet_tutorial.git"
+  },
+  "author": "Angelica Turla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelicamarie/skynet_tutorial/issues"
+  },
+  "homepage": "https://github.com/gelicamarie/skynet_tutorial#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "@nebulous/skynet": "^2.0.1",
+    "skynet-js": "^3.0.2"
+  }
+}
