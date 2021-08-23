@@ -2,7 +2,7 @@
 
 A simple application that takes an image from the user and generates a media page on Skynet.
 
-## Gettin Started
+## Getting Started
 To run : 
 ```bash
 
